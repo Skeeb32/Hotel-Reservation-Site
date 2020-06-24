@@ -10,7 +10,7 @@ const Rooms = () => {
     <Hero hero="roomsHero">
       <Banner title="our rooms">
         <Link to="/" className="btn-primary">
-          return home
+          return home but another day another Github Green Square
         </Link>
       </Banner>
     </Hero>
