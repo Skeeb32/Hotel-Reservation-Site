@@ -12,7 +12,7 @@ export default function RoomContainer() {
 
         return (
           <div>
-            hello from rooms container
+            hello from rooms containers
             <RoomsFilter />
             <RoomsList />
           </div>
