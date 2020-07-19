@@ -18,7 +18,7 @@ export default function Home() {
   </Hero>
   <Services/>
   <FeaturedRooms />
-  <Button>hello</Button>
+  {/* <Button>Thank You</Button> */}
   </>
   );
 }
