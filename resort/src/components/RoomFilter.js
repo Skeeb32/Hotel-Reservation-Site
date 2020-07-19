@@ -1,9 +1,10 @@
-import React from 'react'
-
+import React from 'react';
+import { useContext } from 'react';
+import { RoomContext } from '../Context';
+import Title from '../components/Title';
 export default function RoomFilter() {
-    return (
-        <div>
-            hello from RoomFilter
-        </div>
-    )
+  const context = useContext(RoomContext);
+  console.log(context);
+
+  return <div>hello from RoomFilter</div>;
 }
