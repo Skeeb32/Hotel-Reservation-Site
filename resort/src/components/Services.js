@@ -22,7 +22,7 @@ export default class Services extends Component {
       },
       {
         icon: <FaBeer />,
-        title: 'Free Halal Beer!',
+        title: 'Free Halal Beer',
         info: 'Non-alcoholic Beer, alcohol free beer. You can find a good-tasting, alcohol-free brew from a handful of craft breweries -- and a couple of the big beer brands.',
       },
     ],
